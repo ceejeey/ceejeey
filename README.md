@@ -19,6 +19,7 @@
   <img alt="AmazonAWS" src="https://img.shields.io/badge/-Amazon-242423?style=flat-square&logo=AmazonAWS&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-242423?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-242423?style=flat-square&logo=git&logoColor=white" />
+ <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-242423?style=flat-square&logo=git&logoColor=white" />
   
 
 </p>
