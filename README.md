@@ -6,6 +6,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=727475&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Mohammed+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Currently+working+@antstack+%F0%9F%93%88;In+building+frontend+infrastructures+%E2%9A%99%EF%B8%8F" alt="Aditya Kumar" width="650" height="55">
 
 
+---
+
+### 🚀 About Me  
+- 💻 Software Developer passionate about building scalable frontend architectures.  
+- 🏗 Currently building [Beitroot](https://www.beitroot.co/)
+- 🌱 Love working on modern web stacks and solving real problems through tech.  
+
+---
+
+
 ### Skills 🔥
 
 <p>
